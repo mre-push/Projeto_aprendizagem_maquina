@@ -1,0 +1,20 @@
+
+Olá professor Adriano, está é uma rede Neural desenvolvida em Java para processamento de números escritos à mão. 
+Esse é um projeto desenvolvido para aprender mais sobre a área, os cálculos foram realizados tendo como referência as aulas
+do canal do YouTube3b1b sobre aprendizagem de máquina na prática. A rede neural usa backprogragation como método de treinamento. 
+
+Link :  https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+
+Para o treinamento é usado uma base de dados do mnist disponível na internet. 
+
+Exemplo usando 1 camada oculta com 196 neurônios:
+Tamanho das imagens: 47040016
+Tamanho das etiquetas: 60008
+Tamanho das imagens: 7840016
+Tamanho das etiquetas: 10008
+execução 0 - precisão: 30,12% custo: 0,7998992
+execução 1 - precisão: 60,45% custo: 0,669735
+[...]
+execução 21 - precisão: 90,61% custo: 0,19189838
+
